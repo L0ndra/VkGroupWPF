@@ -21,7 +21,6 @@ namespace VkGroupWPF
     /// </summary>
     public partial class MainWindow : Window
     {
-        int appId = 5141520;
         long Group1;
         long Group2;
         string Token;
